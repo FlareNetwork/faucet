@@ -8,12 +8,12 @@ var config = {
   //
   // For example, https://www.moneypot.com/apps/561-untitled-dice
   // has an ID of 561.
-  app_id: 561,
+  app_id: 2672,
   // On MoneyPot, go to your apps "Edit" page and set the
   // Recaptcha SecretKey there. The SiteKey goes here.
   recaptcha_sitekey: '6LfI_QUTAAAAACrjjuzmLw0Cjx9uABxb8uguLbph',
   // Set this to the URL where you're hosting this script.
-  redirect_uri: 'https://untitled-dice.github.io/untitled-faucet'
+  redirect_uri: 'https://faucet.itzflare.me'
 };
 
 ////////////////////////////////////////////////////////////
