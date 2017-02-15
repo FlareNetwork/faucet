@@ -13,7 +13,7 @@ var config = {
   // Recaptcha SecretKey there. The SiteKey goes here.
   recaptcha_sitekey: '6LdbaxUUAAAAACDggRTcTqnraqPSiBbab2ttFFiy',
   // Set this to the URL where you're hosting this script.
-  redirect_uri: 'https://faucet.itzflare.me'
+  redirect_uri: 'http://faucet.itzflare.me'
 };
 
 ////////////////////////////////////////////////////////////
